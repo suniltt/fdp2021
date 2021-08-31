@@ -1,3 +1,4 @@
 # fdp2021
 
-Notebooks and slides for faculty development program on  Machine Learning
+Notebooks and slides for faculty development program on  Machine Learning 
+Sponsored by KTU
